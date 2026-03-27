@@ -1,55 +1,91 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MÙSICAS UI</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site Álbuns</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <div class=app >
-        <aside class="barralado">
-            <h2>Goat Álbuns</h2>
-            <nav>
-                <a href="#">Início</a>
-                <a href="#">Buscar</a>
-                <a href="#">Favoritos</a>
-            </nav>
-        </aside>
 
-        <main class="conteudo">
+<div class="app">
 
-            <header class="cabecalho">
-                <input type="text" placeholder="Buscar Músicas">
-                <div class="usuario">👤</div>
-            </header>
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <h2>Spotify</h2>
+    <nav>
+      <a href="#">🏠 Início</a>
+      <a href="#">🔍 Buscar</a>
+      <a href="#">📚 Biblioteca</a>
+    </nav>
+  </aside>
 
-            <h1>Álbuns recomendados</h1>
+  <!-- Conteúdo principal -->
+  <main class="content">
 
-            <div class="albuns">
-                <div class="cards">
-                    <div class="infartistas">
-                        <h3>Nome Álbum</h3>
-                        <p>Nome do artista</p>
-                        <button>▶</button>
-                    </div>
-                <div class="cards">
-                    <div class="infartistas">
-                        <h3>Nome Álbum</h3>
-                        <p>Nome do artista</p>
-                        <button>▶</button>
-                    </div>
-                <div class="cards">
-                    <div class="infartistas">
-                        <h3>Nome Álbum</h3>
-                        <p>Nome do artista</p>
-                        <button>▶</button>
-                    </div>
-                    
-                    
-                </div>
-            </div>
-        </main>
+    <header class="topbar">
+      <input type="text" placeholder="Buscar músicas...">
+      <div class="user">👤</div>
+    </header>
+
+    <h1>Álbuns Recomendados</h1>
+
+    <div class="albums">
+
+      <div class="card">
+        <div class="cover"> <img src="" alt="">
+        </div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
+      <div class="card">
+        <div class="cover"> <img src="" alt="">
+        </div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
+      <div class="card">
+        <div class="cover"> 
+            <img src="" alt=""></div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
+      <div class="card">
+        <div class="cover"> <img src="" alt="">
+        </div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
+      <div class="card">
+        <div class="cover">
+            <img src="" alt="">
+        </div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
+      <div class="card">
+        <div class="cover"></div>
+        <h3>Nome do Álbum</h3>
+        <p>Artista</p>
+        <button>▶</button>
+      </div>
+
     </div>
+
+  </main>
+
+</div>
+
 </body>
 </html>
