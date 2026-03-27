@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NAwkGfaw)
+
 # Trabalho Prático - Semana 04
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
@@ -9,19 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Lukas Nathan Matos Candeia
+- Matricula: 925157
+- Proposta de projeto escolhida: Álbuns de músicas
+- Breve descrição sobre seu projeto: Explicitar álbuns de músicas que recomendo.
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
-<<  COLOQUE A IMAGEM AQUI >>
+> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar.
 
-
+<< COLOQUE A IMAGEM AQUI >>[Templatebásico] (image/teamplate.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< COLOQUE A IMAGEM AQUI >>
