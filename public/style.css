@@ -29,9 +29,10 @@ body {
 }
 
 .sidebar h2 {
-  color: #1db954;
-  font-size: 30px;
-  letter-spacing: 2px;
+  color: #ca4545;
+  font-size: 40px;
+  letter-spacing: 1px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .sidebar nav {
@@ -41,26 +42,24 @@ body {
 }
 
 .sidebar a {
-  color: #b3b3b3;
+  color: #cfc6c6;
   text-decoration: none;
-  font-size: 15px;
-  transition: 0.3s;
+  font-size: 20px;
+  transition: 0.4s;
   padding: 6px 8px;
   border-radius: 5px;
 }
 
 .sidebar a:hover {
   color: #fff;
-  background: #1a1a1a;
+  background: #2b2929;
 }
 
-/* CONTEÚDO */
 .content {
   flex: 1;
   padding: 30px;
 }
 
-/* TOPBAR */
 .topbar {
   display: flex;
   justify-content: space-between;
@@ -86,7 +85,7 @@ body {
 /* TÍTULO */
 h1 {
   margin-bottom: 20px;
-  font-size: 26px;
+  font-size: 30px;
 }
 
 /* GRID DE ÁLBUNS */
@@ -136,7 +135,6 @@ h1 {
   color: #b3b3b3;
 }
 
-/* BOTÃO PLAY */
 .card button {
   position: absolute;
   bottom: 15px;
@@ -187,5 +185,14 @@ h1 {
   .topbar input {
     width: 100%;
     max-width: 200px;
-  }
 }
+
+.user {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  bottom: 15px;
+  right: 15px;
+}
+
+
